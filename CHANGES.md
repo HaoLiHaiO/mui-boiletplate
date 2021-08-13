@@ -9,3 +9,6 @@ margin), paragraph (if true, text has bottom margin)
 - difference between paragraph and gutterBottom:
     - if paragraph set to true: <p>, else <span>, bottom margin = 16
     - if gutterBottom set to true: bottom margin = 0.35em
+- Grid: if container set to true, it has flex container behavior, items should 
+be wrapped in a container
+- create MUI hook with makeStyles and separate MUI styling
