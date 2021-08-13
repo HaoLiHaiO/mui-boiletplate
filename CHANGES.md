@@ -4,4 +4,5 @@
 - add CSSBaseline
 <!-- Typography API -->
 - [MUI Typography](https://material-ui.com/api/typography/)
-- e.g.: variant, align, color, gutterBottom (true ? then txt has bottom margin)
+- e.g.: variant, align, color, gutterBottom (if true, text has bottom 
+margin), paragraph (if true, text has bottom margin)
