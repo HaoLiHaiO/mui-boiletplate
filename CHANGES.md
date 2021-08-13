@@ -6,3 +6,6 @@
 - [MUI Typography](https://material-ui.com/api/typography/)
 - e.g.: variant, align, color, gutterBottom (if true, text has bottom 
 margin), paragraph (if true, text has bottom margin)
+- difference between paragraph and gutterBottom:
+    - if paragraph set to true: <p>, else <span>, bottom margin = 16
+    - if gutterBottom set to true: bottom margin = 0.35em
